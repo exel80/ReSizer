@@ -4,6 +4,8 @@ Layout is simple and its defently user friendly.
 
 You can use resizer source code in your projects.
 
+![Resizer](https://i.imgur.com/tXIhMLj.png)
+
 # Install
 1. [Download ZIP](https://github.com/exel80/ReSizer/archive/master.zip)
 2. Open **resize.sln** with [Visual Studio](https://visualstudio.com/)
