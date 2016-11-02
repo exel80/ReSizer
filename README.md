@@ -12,3 +12,5 @@ You can use resizer source code in your projects.
 3. Build it or run it **in Visual Studio**.
 4. ...
 5. **DONE & PROFIT!**
+
+OR just download builded version from builded folder!
